@@ -1,0 +1,29 @@
+D:\University\Bahar\ترم 2\برنامه سازی سیستم\Agency windows form\Agancy\Agancy\bin\Debug\Agancy.exe.config
+D:\University\Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\bin\Debug\Agancy.exe.config
+D:\University\Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\obj\Debug\Agancy.csprojResolveAssemblyReference.cache
+D:\University\Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\obj\Debug\Agancy.Properties.Resources.resources
+D:\University\Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\obj\Debug\Agancy.csproj.GenerateResource.Cache
+D:\University\Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\bin\Debug\bin\Debug\dbagency.mdf
+D:\University\Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\bin\Debug\bin\Debug\dbagency_log.ldf
+D:\University\Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\bin\Debug\Agancy.exe
+D:\University\Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\bin\Debug\Agancy.pdb
+D:\University\Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\obj\Debug\Agancy.exe
+D:\University\Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\obj\Debug\Agancy.pdb
+D:\University\Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\obj\Debug\Agancy.frm_Login.resources
+D:\University\Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\obj\Debug\Agancy.frm_Reception.resources
+D:\University\Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\obj\Debug\Agancy.frm_Cashier.resources
+D:\University\Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\obj\Debug\Agancy.frm_Manager.resources
+C:\MYFILES\Uni Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\bin\Debug\Agancy.exe.config
+C:\MYFILES\Uni Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\obj\Debug\Agancy.exe
+C:\MYFILES\Uni Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\obj\Debug\Agancy.pdb
+C:\MYFILES\Uni Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\bin\Debug\bin\Debug\dbagency.mdf
+C:\MYFILES\Uni Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\bin\Debug\bin\Debug\dbagency_log.ldf
+C:\MYFILES\Uni Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\bin\Debug\Agancy.exe
+C:\MYFILES\Uni Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\bin\Debug\Agancy.pdb
+C:\MYFILES\Uni Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\obj\Debug\Agancy.csprojResolveAssemblyReference.cache
+C:\MYFILES\Uni Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\obj\Debug\Agancy.frm_Login.resources
+C:\MYFILES\Uni Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\obj\Debug\Agancy.frm_Reception.resources
+C:\MYFILES\Uni Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\obj\Debug\Agancy.frm_Cashier.resources
+C:\MYFILES\Uni Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\obj\Debug\Agancy.frm_Manager.resources
+C:\MYFILES\Uni Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\obj\Debug\Agancy.Properties.Resources.resources
+C:\MYFILES\Uni Bahar\Term 2\Barname sazi system, Janaghaee\Agency windows form\Agancy\Agancy\obj\Debug\Agancy.csproj.GenerateResource.Cache
